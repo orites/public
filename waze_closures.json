@@ -1,17 +1,1 @@
-{
-  "incidents": [
-    {
-      "incident": {
-        "id": "pinnacle_rd_closed_springs",
-        "type": "ROAD_CLOSED",
-        "subtype": "ROAD_CLOSED_HAZARD",
-        "polyline": "147.21382 -42.89613 147.22150 -42.89501 147.20721 -42.89534",
-        "street": "Pinnacle Road",
-        "starttime": "2026-06-14T11:41:36Z",
-        "endtime": "2026-06-14T13:11:36Z",
-        "description": "Pinnacle Road closed at The Springs. Automated rolling feed update (UTC).",
-        "direction": "BOTH_DIRECTIONS"
-      }
-    }
-  ]
-}
+
